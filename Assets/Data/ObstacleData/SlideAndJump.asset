@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cee3e9418fb4c8f42a81addc76a93b73, type: 3}
+  m_Name: SlideAndJump
+  m_EditorClassIdentifier: 
+  obstacleSize: {x: 0, y: 24}
+  assignedDifficulty: 0
+  levelObstacle: {fileID: 123408964337601988, guid: f95821ec4d7bc4e48b2cc0e78bdf215b, type: 3}
